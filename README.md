@@ -1,0 +1,1 @@
+![.NET CI](https://github.com/ZABUZA52/CILab/actions/workflows/ci.yml/badge.svg)
